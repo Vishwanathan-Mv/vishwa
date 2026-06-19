@@ -11,40 +11,33 @@
 
 </div>
 
----
-
-<!-- ABOUT ME - TERMINAL STYLE -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```
-┌─────────────────────────────────────────────┐
-│         VISHWANATHAN.M // PROFILE.SH         │
-├─────────────────────────────────────────────┤
+┌──────────────────────────────────
+│                VISHWANATHAN.M        
+├──────────────────────────────────
 │                                             │
-│  $ whoami                                   │
+│  Who am I?                                   │
 │  > CS + Data Science Graduate               │
 │    @ Tagore College, Chennai 📍             │
 │                                             │
-│  $ cat skills.txt                           │
+│     [Skills:]                             │
 │  > Python | Java | C++ | HTML               │
 │  > Data Analysis | Cloud | Networking       │
 │  > Software Testing | MS Office             │
 │                                             │
-│  $ cat learning.txt                         │
+│    [Learnings:]                           │
 │  > SQL & NoSQL Databases                    │
 │  > AWS Cloud Fundamentals                   │
 │  > Machine Learning & AI                    │
 │  > Cybersecurity Basics                     │
 │                                             │
-│  $ cat hobbies.txt                          │
+│     [Hobbies:]                          │
 │  > 📚 Books | 📷 Photography               │
 │  > 🏏 Cricket | 🏍️ Bike Riding             │
 │                                             │
-│  $ echo $MOTTO                              │
+│      [MOTTO:]                             │
 │  > "Learn → Build → Grow. Repeat." 🚀      │
 │                                             │
-└─────────────────────────────────────────────┘
-```
+└──────────────────────────────────
 
 <br clear="right"/>
 
@@ -65,7 +58,7 @@
 
 <!-- TECH STACK - STYLED AS SYSTEM MODULES -->
 
-## `$ ./load_tech_stack.sh`
+load_tech_stack
 
 > **[ LANGUAGES ]**
 
@@ -93,7 +86,7 @@
 
 <!-- GITHUB STATS -->
 
-## `$ ./fetch_github_metrics.sh`
+fetch_github_metrics
 
 <div align="center">
 
@@ -108,7 +101,7 @@
 
 ---
 
-## `$ ./streak_monitor.sh --live`
+streak_monitor
 
 <div align="center">
 
@@ -118,7 +111,7 @@
 
 ---
 
-## `$ ./activity_graph.sh --render`
+activity_graph
 
 <div align="center">
 
@@ -128,7 +121,7 @@
 
 ---
 
-## `$ ./load_trophies.sh`
+load_trophies
 
 <div align="center">
 
@@ -140,7 +133,7 @@
 
 <!-- SKILLS BREAKDOWN - TERMINAL DETAILS PANELS -->
 
-## `$ cat skills_breakdown.log`
+        Skills_breakdown
 
 <details>
 <summary><code>▶ [MODULE 01] Programming & Technical Skills — EXPAND</code></summary>
@@ -148,25 +141,24 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════╗
-║           TECHNICAL SKILLS INVENTORY v1.0           ║
-╠══════════════════════════════════════════════════════╣
-║  LANGUAGE     │  PROFICIENCY  │  USE CASE           ║
-╠══════════════════════════════════════════════════════╣
-║  Python       │  ████████░░   │  Data, Scripting    ║
-║  Java         │  ███████░░░   │  OOP, Algorithms    ║
-║  C++          │  ██████░░░░   │  DSA, Systems       ║
-║  HTML         │  ███████░░░   │  Web Fundamentals   ║
-╠══════════════════════════════════════════════════════╣
-║  SKILL              │  STATUS                       ║
-╠══════════════════════════════════════════════════════╣
-║  Data Analysis      │  ✓ Active                    ║
-║  Cloud Computing    │  ✓ Active                    ║
-║  Software Testing   │  ✓ Active                    ║
-║  Networking         │  ✓ Active                    ║
-║  MS Office Suite    │  ✓ Expert                    ║
-╚══════════════════════════════════════════════════════╝
-```
+╔═════════════════════════════════
+║           TECHNICAL SKILLS INVENTORY       
+╠══════════════════════════════════
+║  LANGUAGE   │  PROFICIENCY  │ USE.CASE           ║
+╠══════════════════════════════════
+║  Python       │  ████████░░                   ║
+║  Java         │  ███████░░░          ║
+║  C++          │  ██████░░░░          ║
+║  HTML         │  ███████░░░          ║
+╠══════════════════════════════════
+║     SKILL           │       STATUS                       ║
+╠══════════════════════════════════
+║  Data Analysis      |     ✓ Active                    ║
+║  Cloud Computing    │     ✓ Active                    ║
+║  Software Testing   │     ✓ Active                    ║
+║  Networking         │     ✓ Active                    ║
+║  MS Office Suite    │     ✓ Expert                    ║
+╚══════════════════════════════════
 
 </details>
 
@@ -176,16 +168,15 @@
 <br/>
 
 ```
-╔════════════════════════════════════════════════════╗
-║             SOFT SKILLS ANALYSIS v1.0             ║
-╠════════════════════════════════════════════════════╣
-║  Communication    →  Tamil & English — Bilingual  ║
-║  Teamwork         →  Collaborative problem solver ║
-║  Problem Solving  →  Logical & analytical thinker ║
-║  Time Management  →  Deadline-driven, organized   ║
-║  Presentation     →  Clear technical storytelling ║
-╚════════════════════════════════════════════════════╝
-```
+╔══════════════════════════════════
+║           SOFT SKILLS ANALYSIS              ║
+╠══════════════════════════════════
+║  Communication    →  Tamil & English   ║
+║  Teamwork         →  Collaborative
+║  Problem Solving  →  Logical 
+║  Time Management  →  Deadline-driven
+║  Presentation     →  Clear technical 
+╚══════════════════════════════════
 
 </details>
 
@@ -195,19 +186,18 @@
 <br/>
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║              LEARNING ROADMAP // 2025–2026               ║
-╠═══════════════════════════════════════════════════════════╣
-║  🔵 SQL & NoSQL       → MySQL, MongoDB, Database Design   ║
-║  🔵 Cloud (AWS)       → EC2, S3, Lambda, Deployment       ║
-║  🔵 Python Advanced   → Pandas, NumPy, OOP Patterns       ║
-║  🔵 ML / AI Basics    → Scikit-learn, Model Building      ║
-║  🔵 Cybersecurity     → Network Security, Ethical Hacking ║
-║  🔵 Web Dev           → CSS, JavaScript, React Basics     ║
-╠═══════════════════════════════════════════════════════════╣
-║  STATUS: [ ▓▓▓▓░░░░░░ ] 40% Complete — IN PROGRESS      ║
-╚═══════════════════════════════════════════════════════════╝
-```
+╔══════════════════════════════════
+║         LEARNING ROADMAP 2025–2026               ║
+╠══════════════════════════════════
+║  🔵 SQL & NoSQL       → MySQL,  MongoDB
+║  🔵 Cloud (AWS)       → EC2, S3, Lambda
+║  🔵 Python Advanced   → Pandas, NumPy
+║  🔵 ML / AI Basics    → Scikit-learn
+║  🔵 Cybersecurity     → Networksecurity 
+║  🔵 Web Dev           → CSS, JavaScript
+╠═════════════════════════════════
+║  STATUS: [ ▓▓▓▓░░░░░░ ]40% Complete
+╚═════════════════════════════════
 
 </details>
 
@@ -215,7 +205,7 @@
 
 <!-- EDUCATION - STYLED AS SYSTEM LOGS -->
 
-## `$ cat /etc/education.conf`
+        Education
 
 <div align="center">
 
@@ -230,7 +220,7 @@
 
 <!-- ACHIEVEMENTS -->
 
-## `$ ls -la /achievements/`
+       [Achievements:]
 
 <div align="center">
 
@@ -246,17 +236,12 @@
 
 ---
 
-<!-- CURRENTLY LEARNING - HACKER TERMINAL BLOCK -->
+           mode=active 
 
-## `$ ./learn --mode=active`
-
-```bash
-#!/bin/bash
 # VISHWANATHAN's CURRENT LEARNING STACK
 # Last updated: 2025
 
-declare -A STACK=(
-  ["🐍 Python (Advanced)"]="OOP · Pandas · NumPy · File I/O"
+declare -A STACK=(["🐍 Python (Advanced)"]="OOP · Pandas · NumPy · File I/O"
   ["🗄️  Databases"]="SQL · MySQL · NoSQL · MongoDB Basics"
   ["☁️  Cloud (AWS)"]="EC2 · S3 · Lambda · IAM · Deployment"
   ["🤖 ML & AI"]="Scikit-learn · Regression · Classification"
@@ -276,7 +261,7 @@ echo "[✓] Status: Actively Learning | Goal: Internship / Entry-Level Role"
 
 <!-- PERSONAL -->
 
-## `$ grep -i hobbies /home/vish/.profile`
+          hobbies
 
 ```
 HOBBIES=("📚 Reading Books" "📷 Photography" "🏏 Playing Cricket" "🏍️ Bike Riding")
@@ -290,7 +275,7 @@ LOCATION="Chennai, Tamil Nadu, India 🇮🇳"
 
 <!-- CONNECT SECTION -->
 
-## `$ ping vishwanathan --connect`
+        vishwanathan - M
 
 <div align="center">
 
